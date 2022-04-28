@@ -1,0 +1,81 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/17/04/b6/1704b6fdb211b14d83fba7dd786dbbb8.jpg);
+}
+#descrip{
+    color : rgb(30, 27, 27);
+    margin :100px;
+    background-color: rgb(91, 111, 148);
+    font-size: 25px;
+    
+}
+#desp{
+    font-size: 60px;
+    background-color: beige;
+}
+#formacion {
+    color :yellowgreen;
+    margin : 100px;
+    background-color: black;
+    font-size: 25px;
+}
+#form{
+    font-size: 60px;
+    background-color: blueviolet;
+}
+
+
+#exp{
+    color : whitesmoke;
+    margin: 100px;
+    background-color: brown;
+    font-size: 25px;
+}
+#ex{
+    font-size: 60px;
+    background-color: darkgoldenrod;
+}
+#ti{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    color: blueviolet;
+    background-color: bisque;
+    font-size: 60px;
+}
+#henry{
+    color: aliceblue;
+    margin: 100px;
+    background-color: blueviolet;
+    font-size: 25px;
+}
+#hen{
+    font-size: 60px;
+    background-color: black;
+}
+#hobbies{
+    color: lightcoral;
+    margin: 100px;
+    background-color: lightcyan;
+    font-size: 25px;
+}
+#hobb{
+    font-size: 60px;
+    background-color: aquamarine;
+}
+#skill{
+    color: black;
+    margin: 100px;
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
+#ski{
+    font-size: 60px;
+    background-color: navajowhite;
+}
+img{
+    width: 320px;
+    height: 320px;
+    position: relative;
+    left: 1000px;
+    top: 10px;
+}
